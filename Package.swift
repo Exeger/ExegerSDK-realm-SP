@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PowerfoyleRealm",
-            url: "https://exeger.jfrog.io/artifactory/xcframeworks-generic-local/PowerfoyleRealm/1.1.0-SNAPSHOT/PowerfoyleRealm.zip",
-            checksum: "c6accdf880b363431a793ea50433e3dc5e0c2c496830b96de8a76caa8760e167"
+            url: "http://51.12.242.35:8081/repository/maven-releases/com/exeger/powerfoyle/realm-xcframework/1.2.2/realm-xcframework-1.2.2.zip",
+            checksum: "eff1b8c55fafbeb8366732a9ddf9cec59f6fdf4c302fc55b15e40796951f62e8"
         ),
     ]
 )
