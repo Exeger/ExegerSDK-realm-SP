@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PowerfoyleRealm",
-            url: "https://pkgs.dev.azure.com/exeger/PowerfoyleSDK/_packaging/repository/maven/v1/com.exeger.powerfoyle/realm-xcframework/1.2.3/realm-xcframework-1.2.3.zip",
-            checksum: "e5a0290676b519fe1df937e1cb075da855be4973825fb91a31e9fce48277aae1"
+            url: "https://pkgs.dev.azure.com/exeger/PowerfoyleSDK/_packaging/repository/maven/v1/com.exeger.powerfoyle/realm-xcframework/1.2.4/realm-xcframework-1.2.4.zip",
+            checksum: "e2797811964681675ba301426d4a2e0c4353f14a453a4e5dcd655a6896f964f0"
         ),
     ]
 )
